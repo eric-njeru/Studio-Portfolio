@@ -8,7 +8,7 @@ body{
     
 }
 .headSection{
-    background-image: url('../images/head.jpg');
+    background-image: url('../images/h_img.jpg');
     text-align: center;
     background-size: cover;
     height: 100vh;
@@ -24,7 +24,7 @@ body{
 }
 
 .services{
-    background-image: url('../images/service.jpg');
+    background-image: url('../images/s_image.jpg');
     text-align: center;
     color:white;
     height: 50vh;
@@ -43,7 +43,7 @@ body{
     margin-top: 40px;
  }
 .ContactUs{
-    background-image: url("../images/contactus.jpg");
+    background-image: url("../images/c_image.jpg");
     background-size: cover;
     min-height: 60vh;
     margin-top: 40px;
