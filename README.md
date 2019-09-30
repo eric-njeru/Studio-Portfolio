@@ -28,5 +28,5 @@ For contact please reach out on facebook:Eric Njeru. Twitter: @knot_notorius. or
 ## Copyright Information
 Copyright @2019 Eric Njeru
 ### License
-The project is under[MIT license](https://github.com/eric-njeru/Studio-Portfolio/blob/master/LICENSE)
+The project is under MIT License.
 Copyright &copy; 2019.All rigths reserved
